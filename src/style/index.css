@@ -100,3 +100,14 @@
   border: none;
   border-radius: 0 0 3px 0;
 }
+
+.button {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  unicode-bidi: isolate;
+}
